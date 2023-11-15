@@ -1,0 +1,5 @@
+{   Object Oriented Thue
+{   (https://esolangs.org/wiki/Object_oriented_Thue)
+
+import stdio
+{TextOutput}Hello, World!
